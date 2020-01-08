@@ -73,6 +73,18 @@
 
                 </ul>
             </li> 
+            <li>
+                <a href="#"><i class="fa fa-clock-o fa-3x"></i>Teste<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="cad_relogio_ponto.php">Cadastrar</a>
+                    </li>
+                    <li>
+                        <a href="cons_relogio_ponto.php">Consultar</a>
+                    </li>
+
+                </ul>
+            </li> 
             
             <li>
                 <a href="#"><i class="fa fa-power-off fa-3x"></i>Nobreak<span class="fa arrow"></span></a>
