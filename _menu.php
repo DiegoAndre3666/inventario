@@ -74,7 +74,7 @@
                 </ul>
             </li> 
             <li>
-                <a href="#"><i class="fa fa-clock-o fa-3x"></i>Teste<span class="fa arrow"></span></a>
+                <a href="#"><i class="fa fa-clock-o fa-3x"></i>Teste2<span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level">
                     <li>
                         <a href="cad_relogio_ponto.php">Cadastrar</a>
