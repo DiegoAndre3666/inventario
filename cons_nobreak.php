@@ -22,37 +22,37 @@
                 </div>
                 <!-- /. ROW  -->
                 <hr />
-                
-                <div class="col-md-6">
-                    
-                        <div class="form-group">
-                            <label>Marca</label>
-                            <select class="form-control">
-                                <option value="0" selected></option>
-                               
-                            </select>
-                        </div>
-                    </div>
-                
-                <div class="col-md-6">
-                    
-                        <div class="form-group">
-                            <label>KVA</label>
-                            <select class="form-control">
-                                <option value="0" selected></option>
-                                
-                            </select>
-                        </div>
-                    </div>
-                
-              
-                
-                  <div class="form-group">
-                        <center>
-                            <button class="btn btn-info">Pesquisar</button>
-                        </center>
-                    </div>
 
+                <div class="col-md-6">
+
+                    <div class="form-group">
+                        <label>Marca</label>
+                        <select class="form-control">
+                            <option value="0" selected></option>
+
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+
+                    <div class="form-group">
+                        <label>KVA</label>
+                        <select class="form-control">
+                            <option value="0" selected></option>
+
+                        </select>
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <center>
+                        <button class="btn btn-info">Pesquisar</button>
+                    </center>
+                </div>
+                <hr/>
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         Nobreak

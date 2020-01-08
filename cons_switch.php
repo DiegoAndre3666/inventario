@@ -22,6 +22,49 @@
                 </div>
                 <!-- /. ROW  -->
                 <hr />
+                
+                <h3>Filtros</h3><br>
+                 <div class="col-md-4">
+                    
+                        <div class="form-group">
+                            <label>Modelo</label>
+                            <select class="form-control">
+                                <option value="0" selected></option>
+                                
+                            </select>
+                        </div>
+                    </div>
+                
+                <div class="col-md-4">
+                    
+                        <div class="form-group">
+                            <label>Departamento</label>
+                            <select class="form-control">
+                                <option value="0" selected></option>
+                                <option value="1"></option>
+                                <option value="2"></option>
+                            </select>
+                        </div>
+                    </div>
+                
+                <div class="col-md-4">
+                    
+                        <div class="form-group">
+                            <label>Status</label>
+                            <select class="form-control">
+                                <option value="0" selected></option>
+                                <option value="1">Ativos</option>
+                                <option value="2">Inativos</option>
+                            </select>
+                        </div>
+                    </div>
+                
+                  <div class="form-group">
+                        <center>
+                            <button class="btn btn-info">Pesquisar</button>
+                        </center>
+                    </div>
+                <hr/>
 
                 <div class="panel panel-default">
                     <div class="panel-heading">
